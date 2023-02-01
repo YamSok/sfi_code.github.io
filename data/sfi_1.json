@@ -1,0 +1,26 @@
+[
+    {
+        "name": "(1) SHIP GENERAL"
+    },
+    {
+        "name": "(2) HULL"
+    },
+    {
+        "name": "(3) EQUIPMENT FOR CARGO"
+    },
+    {
+        "name": "(4) SHIP EQUIPMENT"
+    },
+    {
+        "name": "(5) EQUIPMENT FOR CREW AND"
+    },
+    {
+        "name": "(6) MACHINERY MAIN"
+    },
+    {
+        "name": "(7) SYSTEMS FOR MACHINERY MAIN"
+    },
+    {
+        "name": "(8) SHIP COMMON SYSTEMS"
+    }
+]
