@@ -1,0 +1,1280 @@
+[
+    {
+        "name": "(101) CONTRACT/SPECIFIC. WORK, GENERAL DESIGN, MODEL TESTING"
+    },
+    {
+        "name": "(102) DRAWING, ORDERING ETC. WITH REGARD TO HULL"
+    },
+    {
+        "name": "(103) DRAWING, ORDERING ETC. W.R.T. EQUIPMENT FOR CARGO"
+    },
+    {
+        "name": "(104) DRAWING, ORDERING ETC. W.R.T. SHIP EQUIPMENT"
+    },
+    {
+        "name": "(105) DRAWING, ORDERING W.R.T. EQUIPMENT FOR CREW & PASSENGERS"
+    },
+    {
+        "name": "(106) DRAWING, ORDERING W.R.T. MACH. COMP ONENTS, MACH/SHIP SYSTEMS"
+    },
+    {
+        "name": "(107) ESTIMATING, DRAWING & OFFERS W.R.T. CHANGE ORDERS"
+    },
+    {
+        "name": "(108) PURCHASE/RENTING OF DRAWINGS, PATENTS, LICENCES & CONSULTATI"
+    },
+    {
+        "name": "(109) MAINTENANCE SYSTEMS, INSTRUCTION MATERIAL"
+    },
+    {
+        "name": "(111) GENERAL INSURANCE"
+    },
+    {
+        "name": "(112) CLASSIFICATION & STATUTORY FEES & CERTIFICATES"
+    },
+    {
+        "name": "(113) BUILDING ADVANCE INTEREST, DISCOUNT, FINANCE COSTS"
+    },
+    {
+        "name": "(114) CANCELLATION EXPENSES"
+    },
+    {
+        "name": "(115) PENALTIES"
+    },
+    {
+        "name": "(116) BROKERS' COMMISSIONS"
+    },
+    {
+        "name": "(117) REPRESE NTATION, TRAVELS, CONFERENCES"
+    },
+    {
+        "name": "(118) LAUNCHING & DELIVERY REPRESENTATION"
+    },
+    {
+        "name": "(121) QUALITY ASSURANCE, PLANNING, WORK PREPARATION"
+    },
+    {
+        "name": "(122) WORK MANAGEMENT, FIRE GUARD, SUPERVISION, WATCH KEEPING"
+    },
+    {
+        "name": "(123) CLEARING & CLEANING"
+    },
+    {
+        "name": "(124) SNOW CL EARING, DE -ICING"
+    },
+    {
+        "name": "(125) TRANSPORTATION (EXCL. HULL PARTS)"
+    },
+    {
+        "name": "(126) ASSISTANCE WITH OWNER'S SUPPLY"
+    },
+    {
+        "name": "(127) MODELS, ALBUMS, PHOTOS"
+    },
+    {
+        "name": "(128) HEALTH, ENVIRONMENT, SAFETY"
+    },
+    {
+        "name": "(131) PROV. GANGWAYS, ROOFS, HATCHES, STAIRS, STAGES FOR HULL EXT."
+    },
+    {
+        "name": "(132) PROV. ROOFS, HATCHES, STAGES F. DECK HOUSES & SUPERSTR. EXT."
+    },
+    {
+        "name": "(133) PROV. HATCHES, LADDERS, STA GES IN CARGO HOLDS/TANKS"
+    },
+    {
+        "name": "(134) PROV. HATCHES, LADDERS, STAGES IN ENGINE ROOM & ACCOMMOD."
+    },
+    {
+        "name": "(135) PROV. ELECTRIC POWER, LIGHTING, MACHINERY"
+    },
+    {
+        "name": "(136) PROV. STEAM, WATER, HEATING & VENTILATION PLANTS"
+    },
+    {
+        "name": "(137) PROV. GAS, OXYGEN & COMPRES SED AIR PLANTS"
+    },
+    {
+        "name": "(138) TARPAULIN RENTALS"
+    },
+    {
+        "name": "(139) PROV. LIFTING & TRANSPORT EQUIPMENT"
+    },
+    {
+        "name": "(141) KEEL BLOCKS, PILLARS, CUSHIONS"
+    },
+    {
+        "name": "(142) LAUNCHING ARR. W/CRADLE, SUPPORTS, WATER FILLING, PLATFORM"
+    },
+    {
+        "name": "(143) CR EW, PILOTS, TUGS, CLEARING AT LAUNCHING"
+    },
+    {
+        "name": "(144) DRY DOCKING, SLIP DOCKING"
+    },
+    {
+        "name": "(145) SHIFTING, TOWING (EXCL. LAUNCHING)"
+    },
+    {
+        "name": "(146) GAS FREEING, TANK CLEANING"
+    },
+    {
+        "name": "(147) BERTHING, ANCHORAGE"
+    },
+    {
+        "name": "(151) MACHINERY TESTING"
+    },
+    {
+        "name": "(152) CAPACITY, INCLINATION, VIBRATION MEASUREMENTS"
+    },
+    {
+        "name": "(153) FUEL & LUBE OIL FOR TESTS & TRIAL TRIPS"
+    },
+    {
+        "name": "(154) TRIAL TRIPS"
+    },
+    {
+        "name": "(155) SPECIAL TESTS/TRIALS"
+    },
+    {
+        "name": "(161) MENDING WORK AFTER TRIALS"
+    },
+    {
+        "name": "(162) GUARANTEE WORK"
+    },
+    {
+        "name": "(164) REPAIR OF DAMAGES CAUSED BY YARD"
+    },
+    {
+        "name": "(171) DISPOSAL OF WASTE, GARBAGE, OIL, CHEMICALS"
+    },
+    {
+        "name": "(172) CRANE ASSISTANCE  TO SHIP'S CREW"
+    },
+    {
+        "name": "(173) TRANSPORT OF YARD PERSONNEL"
+    },
+    {
+        "name": "(174) TOILET & WASH ROOM OUTLETS"
+    },
+    {
+        "name": "(175) SERVICES TO SHIP'S CREW (MEALS ETC.)"
+    },
+    {
+        "name": "(191) ELECTRODES"
+    },
+    {
+        "name": "(192) GAS, OXYGEN, COAL, OIL"
+    },
+    {
+        "name": "(193) TOOLS, JIGS"
+    },
+    {
+        "name": "(194) BINDING & MENDING MATERIAL, CLEANI NG ARTICLES"
+    },
+    {
+        "name": "(195) EQUIPMENT FOR OWNER'S REPRESENTATIVES"
+    },
+    {
+        "name": "(196) MISCELLANEOUS CONSUMPTION ARTICLES"
+    },
+    {
+        "name": "(201) HULL MATERIALS"
+    },
+    {
+        "name": "(202) TRANSPORTATION, SORTING & STORAGE OF HULL MATERIALS"
+    },
+    {
+        "name": "(203) BLASTING, SHOP -PRIMING, ROLLING & CLEANING OF MATE RIALS"
+    },
+    {
+        "name": "(204) TESTING OF TANKS, BULKHEADS"
+    },
+    {
+        "name": "(205) X -RAY & ULTRASONIC TESTING OF HULL PARTS"
+    },
+    {
+        "name": "(206) TEMPLATE & MOULD LOFT WORK"
+    },
+    {
+        "name": "(207) JOINING OF HULL PARTS AFLOAT"
+    },
+    {
+        "name": "(211) SHELL PANELS, SEPARATE SHELL PLATES"
+    },
+    {
+        "name": "(214) 1. DECK W/STIFFENING"
+    },
+    {
+        "name": "(216) STERN SECTIONS, STERN TUBE BULKHEADS"
+    },
+    {
+        "name": "(218) STERN FRAME SECTIONS"
+    },
+    {
+        "name": "(220) GENERAL"
+    },
+    {
+        "name": "(221) SHELL PANELS, SEPARATE SHELL PLATES"
+    },
+    {
+        "name": "(222) BOTTOM, KEEL & BILGE PLATES W/STIFFENING"
+    },
+    {
+        "name": "(223) INNER BOTTOM W/STIFFENING, ENGINE FOUNDATIONS"
+    },
+    {
+        "name": "(224) 1. DECK W/STIFFENING"
+    },
+    {
+        "name": "(226) DECKS, PLATFORMS, BULKHEADS, & HULL TANKS BELOW 1. DECK"
+    },
+    {
+        "name": "(230) GENERAL"
+    },
+    {
+        "name": "(231) SHELL P ANELS, SEPARATE SHELL PLATES"
+    },
+    {
+        "name": "(232) BOTTOM, KEEL & BILGE PLATES W/STIFFENING"
+    },
+    {
+        "name": "(233) INNER BOTTOM W/STIFFENING"
+    },
+    {
+        "name": "(234) 1. DECK W/STIFFENING"
+    },
+    {
+        "name": "(235) DECKS BELOW 1. DECK W/STIFFENING"
+    },
+    {
+        "name": "(236) TRANSVERSE BULKHEADS W/STIFFENING"
+    },
+    {
+        "name": "(237) LONGITUDINAL BULKHEADS W/STIFFENING"
+    },
+    {
+        "name": "(238) BOTTOM SIDE TANKS, ETC. (SPECIAL LOWER CONSTRUCTIONS)"
+    },
+    {
+        "name": "(239) TOP SIDE TANKS,  ETC. (SPECIAL UPPER CONSTRUCTIONS)"
+    },
+    {
+        "name": "(240) GENERAL"
+    },
+    {
+        "name": "(241) SHELL PANELS, SEPARATE SHELL PLATES"
+    },
+    {
+        "name": "(243) FORECASTLE DECKS & BULKHEADS W/STIFFENING"
+    },
+    {
+        "name": "(244) 1. DECK W/STIFFENING"
+    },
+    {
+        "name": "(245) DECKS & STRINGERS BELOW 1. DECK W/STIFFENING"
+    },
+    {
+        "name": "(246) BOW & STEM SECTIONS, FOREBODY BULKHEADS"
+    },
+    {
+        "name": "(248) BULB"
+    },
+    {
+        "name": "(251) DECK HOUSES"
+    },
+    {
+        "name": "(252) MAST, PUMP, FAN & WINCH HOUSES, COMPANION WAYS"
+    },
+    {
+        "name": "(253) SUPERSTRUCTURES"
+    },
+    {
+        "name": "(261) HULL & HOUSE MARKINGS"
+    },
+    {
+        "name": "(262) BOTTOM PLUGS, SEA CHESTS, BILGE WELLS, WATER JET INTAKE"
+    },
+    {
+        "name": "(263) FOUNDATIONS"
+    },
+    {
+        "name": "(264) FENDER & WEAR BARS, ICE FINS, BILGE KEELS, AIR CUSHION ARR."
+    },
+    {
+        "name": "(265) GUIDE, TRIM & COVER PLATES"
+    },
+    {
+        "name": "(266) HAWSE PIPES"
+    },
+    {
+        "name": "(267) GUTTER BARS, BULWARK, BREAKWATERS, GAS BARRIERS"
+    },
+    {
+        "name": "(268) FUNNELS"
+    },
+    {
+        "name": "(271) BOTTOM, BOOT TOP, RUDDER, RUDDER TRUNK"
+    },
+    {
+        "name": "(272) TOP SIDE"
+    },
+    {
+        "name": "(273) EXTERNAL DECKS"
+    },
+    {
+        "name": "(274) EQUIPMENT ON EXTERNAL DECKS, BULWARK (INBOARD SIDE)"
+    },
+    {
+        "name": "(275) SUPERSTRUCTURES, DECK HOUSES, MAST HOUSES"
+    },
+    {
+        "name": "(276) GALVANIZING, NICKEL PLATING, METALLIZING"
+    },
+    {
+        "name": "(278) EXTERNAL CATHODIC PROTECTION"
+    },
+    {
+        "name": "(281) ACCOMMODATION, DECK HOUSES, STORE ROOMS"
+    },
+    {
+        "name": "(282) ENGINE, BOILER & PUMP ROOMS, STEERING GEAR COMPARTMENTS"
+    },
+    {
+        "name": "(283) CARGO HOLDS"
+    },
+    {
+        "name": "(284) CARGO TANKS"
+    },
+    {
+        "name": "(285) BALLAST, SEA W. & STABIL. TANKS, COFFERDAMS, CHAIN LOCKERS"
+    },
+    {
+        "name": "(286) FRESH WATER TANKS, MISC. TANKS"
+    },
+    {
+        "name": "(287) FUEL OIL & LUBE OIL TANKS"
+    },
+    {
+        "name": "(288) INTERNAL CATHODIC PROTECTION"
+    },
+    {
+        "name": "(291) MARKING"
+    },
+    {
+        "name": "(292) FLAME CUTTING"
+    },
+    {
+        "name": "(293) CUTTING, SHEARING"
+    },
+    {
+        "name": "(294) BENDING, FLANGING, ROLLING"
+    },
+    {
+        "name": "(295) BURNING, CHISELLING & GRINDING FOR BACKWELDS"
+    },
+    {
+        "name": "(298) FITTING & JOINING OF COMPOSITE MATERIALS"
+    },
+    {
+        "name": "(301) CARGO HATCH COVERS W/EQUIPMENT ON WEATHER DECKS"
+    },
+    {
+        "name": "(302) CARGO HATCH COVERS W/EQUIPMENT, ON TWEEN DECKS"
+    },
+    {
+        "name": "(303) CARGO TANK HATCHE S"
+    },
+    {
+        "name": "(304) SMALLER HATCHES, GRAIN HATCHES, MANHOLE COVERS"
+    },
+    {
+        "name": "(305) BOW PORTS"
+    },
+    {
+        "name": "(306) STERN PORTS"
+    },
+    {
+        "name": "(307) SIDE PORTS"
+    },
+    {
+        "name": "(308) CARGO DOORS IN BULKHEADS"
+    },
+    {
+        "name": "(309) COMMON HYDRAULIC OIL SYSTEM FOR HATCHES/PORTS"
+    },
+    {
+        "name": "(311) LOOSE DECKS & PLATFORMS FOR CARGO, RAMPS"
+    },
+    {
+        "name": "(312) LOOSE TANKS FOR CARGO"
+    },
+    {
+        "name": "(313) LOOSE BULKHEADS FOR C ARGO, GRAIN FEEDERS"
+    },
+    {
+        "name": "(314) HOLD BATTENS & GRATING"
+    },
+    {
+        "name": "(315) DECK/HOLD CARGO PILLARS, BINS, SHELVES, CASES"
+    },
+    {
+        "name": "(316) PROTECTION PLATES, COVERS, HATCH TENTS & TARPAULINS"
+    },
+    {
+        "name": "(317) CONTAINER S, PALLETS"
+    },
+    {
+        "name": "(321) CARGO LIFTS"
+    },
+    {
+        "name": "(322) ROLLER WAYS, ROLLER CONVEYORS, TURNTABLES"
+    },
+    {
+        "name": "(323) TRAVELLING CRANES IN CARGO HOLDS"
+    },
+    {
+        "name": "(324) BULLDOZERS, MECHANICAL SHOVELS, TROLLEYS, TRUCKS"
+    },
+    {
+        "name": "(325) SELF LOADERS, SCREW TRANSPORTERS, CONVEYOR BELTS"
+    },
+    {
+        "name": "(326) PNEUMATIC PLANTS FOR BULK CARGO HANDLING"
+    },
+    {
+        "name": "(327) GRABBING/LIFTING EQUIP. FOR CRANES, MASTS & BOOMS FOR CARGO"
+    },
+    {
+        "name": "(331) ROTATING CRANES W/CRANE PILLARS"
+    },
+    {
+        "name": "(332) ROTATING TRAVEL LING CRANES W/RAILS"
+    },
+    {
+        "name": "(333) TRAVELLING TRAVERSE CRANES W/RAILS"
+    },
+    {
+        "name": "(334) OTHER CRANES W/EQUIPMENT FOR CARGO"
+    },
+    {
+        "name": "(341) MASTS, DERRICK POSTS"
+    },
+    {
+        "name": "(342) DERRICK BOOMS, BOOM RESTS"
+    },
+    {
+        "name": "(343) STANDING RIGGING"
+    },
+    {
+        "name": "(344) RUNNING RIGGING"
+    },
+    {
+        "name": "(345) HOIST ING WINCHES"
+    },
+    {
+        "name": "(346) MANOEUVRING WINC HES FOR DERRICK BOOMS"
+    },
+    {
+        "name": "(347) COMMON PLANTS FOR CARGO WINCHES"
+    },
+    {
+        "name": "(351) LOADING/DISCHARGING PUMPS"
+    },
+    {
+        "name": "(352) LOADING/DISCHARG ING SYSTEMS ON DECK"
+    },
+    {
+        "name": "(353) LOADING/DISCHARGING SYSTEMS IN PUMP ROO MS"
+    },
+    {
+        "name": "(354) LOADING/DISCHARGING SYSTEMS IN CARGO TANKS"
+    },
+    {
+        "name": "(355) LOADING/DISCHARGING SYSTEMS FOR LPG/LNG IN GASEOUS PHASE"
+    },
+    {
+        "name": "(356) SEPARATE STRIPPING SYSTEMS"
+    },
+    {
+        "name": "(357) MUD SYSTEMS W/PUMPS, PIPING"
+    },
+    {
+        "name": "(361) INSULATION & SHEATHING OF CARGO HOLDS/TANKS"
+    },
+    {
+        "name": "(362) FREEZING & REFRIGERATING SYSTEMS FOR DRY CARGO"
+    },
+    {
+        "name": "(363) DIRECT COOLING SYSTEMS FOR LIQUID CARGO"
+    },
+    {
+        "name": "(364) CASCADE COOLING SYSTEMS FOR LIQUID CARGO"
+    },
+    {
+        "name": "(365) INDIRECT COOLING/H EATING SYSTEMS, CARGO OIL HEATING"
+    },
+    {
+        "name": "(371) VENTILATION SYSTEMS FOR REFRIGERATED CARGO HOLDS"
+    },
+    {
+        "name": "(372) CLOSED VENTILATION/RETURN VAPOUR SYSTEMS FOR CARGO HOLDS"
+    },
+    {
+        "name": "(373) OPEN VENTILATION SYSTEMS FOR CARGO HOLDS"
+    },
+    {
+        "name": "(374) VENT./GAS FREEING SYSTEMS FOR TANKS, WIND SAILS W/EQUIPMENT"
+    },
+    {
+        "name": "(375) BLOW -OFF SYST. FROM SAFETY VALVES (PRESSURE/VACUUM VALVES)"
+    },
+    {
+        "name": "(376) INERT GAS SYSTEMS W/CONDITIONING PLANT"
+    },
+    {
+        "name": "(381) SOUNDING, SURVEIL. & OPERATING EQUIPMENT FOR CARGO SYSTEMS"
+    },
+    {
+        "name": "(382) TANK CLEANING SYSTEMS & EQUIPMENT"
+    },
+    {
+        "name": "(383) LIFTING GEAR FOR CARGO HOSES"
+    },
+    {
+        "name": "(384) SEPARATE COOLING WATER SYSTEMS FOR CARGO EQUIPMENT"
+    },
+    {
+        "name": "(385) INSULATION DRYING SYSTEM FOR CARGO  HOLDS/TANKS"
+    },
+    {
+        "name": "(386) EQUIPM. F. ADDITION OF PRESERVATIVES, INHIBITORS, SPIRITS"
+    },
+    {
+        "name": "(387) SPECIAL STRUCTURES FOR LOADING/DISCHARGING OVER STERN/S TEM"
+    },
+    {
+        "name": "(401) RUDDER W/WELDED PARTS"
+    },
+    {
+        "name": "(402) RUDDER CARRIERS, RUDDER STOCKS, RUDDER BEARINGS"
+    },
+    {
+        "name": "(403) STEERING GEAR/COLUMNS, TELEMOTOR SYS., RUDDER IND., EMERG.ST"
+    },
+    {
+        "name": "(404) SIDE THRUSTERS"
+    },
+    {
+        "name": "(405) STABILIZERS"
+    },
+    {
+        "name": "(406) BRAKES"
+    },
+    {
+        "name": "(407) BUBBLE PLANTS"
+    },
+    {
+        "name": "(408) DYNAMIC POSITIONING SYST EMS"
+    },
+    {
+        "name": "(411) RADAR PLANTS"
+    },
+    {
+        "name": "(412) DECCA, LORAN, OMEGA, RADIO DIRECTION FINDER"
+    },
+    {
+        "name": "(413) GYRO PLANTS, AUTOPILOTS, COMPASSES"
+    },
+    {
+        "name": "(414) UNDERWATER SEARCHING EQUIPM.: ASDIC, ECHO SOUNDER, SPEED LOG"
+    },
+    {
+        "name": "(415) CLINOMETERS, TRIM INDICATORS, LOAD INDICATORS"
+    },
+    {
+        "name": "(416) NAVIGATION TV"
+    },
+    {
+        "name": "(417) CLOCKS, FACSIMILE RECORDERS, MISC. NAUTI CAL EQUIPMENT"
+    },
+    {
+        "name": "(418) RADAR, SIGNAL, OBSERVATION & ANTENNA MASTS"
+    },
+    {
+        "name": "(419) INTEGRATED NAVIGATION SYSTEMS"
+    },
+    {
+        "name": "(421) RADIO PLANT, GMDSS"
+    },
+    {
+        "name": "(422) LIFEBOAT RADIO TRANSMITTERS, EPIRBS"
+    },
+    {
+        "name": "(423) DATA TRANSMISSION PLANTS, COMMUNICATION"
+    },
+    {
+        "name": "(424) VHF/UHF TELEPHONES"
+    },
+    {
+        "name": "(425) CALLING/COMMAND/CREW CALL TELEPHONE PLANTS, WALKIE -TALKIES"
+    },
+    {
+        "name": "(426) SPEAKING TUB ES, TUBE POST PLANTS"
+    },
+    {
+        "name": "(427) LIGHT & SIGNAL EQUIPMENT, LANTERNS, TYPHONS"
+    },
+    {
+        "name": "(431) ANCHORS W/CHAINS & EQUIPMENT"
+    },
+    {
+        "name": "(432) WINDLASSES W/CHAIN STOPPERS, ROLLERS"
+    },
+    {
+        "name": "(433) COMB. WINDLASS/MOORING WINCHES W/CHAIN STOPPERS, ROLLERS"
+    },
+    {
+        "name": "(434) CAPSTANS, WARPING & MOORING WINCHES"
+    },
+    {
+        "name": "(435) FIXED MOORING EQUIPMENT"
+    },
+    {
+        "name": "(436) LOOSE MOORING EQUIPMENT"
+    },
+    {
+        "name": "(437) TOWING EQUIPMENT"
+    },
+    {
+        "name": "(438) COMMON HYDRAULIC OIL SYSTEM FOR ANCHORING/MOORING"
+    },
+    {
+        "name": "(439) COMMON HYDR. OIL SYST. FOR ANCHORING/MOORING/CARGO WINCHES"
+    },
+    {
+        "name": "(441) MACHINE TOOLS, CUTTING & WELDING EQUIPMENT"
+    },
+    {
+        "name": "(442) TOOLS/EQUIP. FOR ENGINEERS, ELECTR., BOATSWAINS, CARPENTERS"
+    },
+    {
+        "name": "(443) PAINTING EQUIPMENT, SCAFFOLDING, PAINT RAFTS/BOATS (GIGS)"
+    },
+    {
+        "name": "(444) CLEANING EQUIPMENT, GARBAGE CHUTES"
+    },
+    {
+        "name": "(445) GARBAGE DISPOSAL PLANTS, INCINERATORS"
+    },
+    {
+        "name": "(446) OUTFITTING IN STORE ROOMS & WORKSHOPS"
+    },
+    {
+        "name": "(447) CLAMPS/FOUNDATIONS FOR SPARE PARTS"
+    },
+    {
+        "name": "(448) NAME PLATES/MARKING ON MACHINERY, EQUIPM., PIPES, CABLES"
+    },
+    {
+        "name": "(451) ENGINE ROOM LIFTS"
+    },
+    {
+        "name": "(452) TRAVELLING CRANES & LIFTING GEAR IN ENGINE ROOM"
+    },
+    {
+        "name": "(453) EXTERNAL LIFTING GEAR FOR  MACHINERY COMPONENTS"
+    },
+    {
+        "name": "(461) HUNTING EQUIPMENT FOR WHALE, SEAL"
+    },
+    {
+        "name": "(462) LONGLINES W/EQUIPMENT, NETS, HANDFISHING EQUIPMENT"
+    },
+    {
+        "name": "(463) PURSE NETS & SEINE EQUIPMENT, POWER BLOCKS"
+    },
+    {
+        "name": "(464) TRAWLING EQUIPMENT"
+    },
+    {
+        "name": "(465) FISH PUMPING PLANTS AND LANDING EQUIPMENT"
+    },
+    {
+        "name": "(466) SPECIAL FISHING EQUIPMENT"
+    },
+    {
+        "name": "(471) HAN D WEAPONS, LIGHT & HEAVY GUNS"
+    },
+    {
+        "name": "(472) ROCKET PLANTS"
+    },
+    {
+        "name": "(473) TORPEDO PLANTS"
+    },
+    {
+        "name": "(474) ANTI -SUBMARINE WEAPONS"
+    },
+    {
+        "name": "(475) MINELAYING EQUIPMENT"
+    },
+    {
+        "name": "(476) MINESWEEPING EQUIPMENT"
+    },
+    {
+        "name": "(477) DE -GAUSSING PLANTS"
+    },
+    {
+        "name": "(478) TORPEDO COUNTERMEASURES, SMOKE GENERATING EQUIPMENT"
+    },
+    {
+        "name": "(479) WEAPON CONTROL SYSTEMS"
+    },
+    {
+        "name": "(481) DRILLING EQUIPMENT"
+    },
+    {
+        "name": "(482) DREDGING EQUIPMENT"
+    },
+    {
+        "name": "(483) DIVING EQUIPM ENT"
+    },
+    {
+        "name": "(484) LABORATORY EQUIPMENT"
+    },
+    {
+        "name": "(485) AIRCRAFT, HELICOPTERS"
+    },
+    {
+        "name": "(486) AUXILIARY VESSELS"
+    },
+    {
+        "name": "(487) DE -ICING EQUIPMENT"
+    },
+    {
+        "name": "(488) SEISMIC EQUIPMENT"
+    },
+    {
+        "name": "(489) ENVIRONMENTAL PROTECTION EQUIPMENT"
+    },
+    {
+        "name": "(491) RAW MATERIAL HANDLING"
+    },
+    {
+        "name": "(492) FILLET FACTORIES"
+    },
+    {
+        "name": "(493) SHRIMP FACTORIES"
+    },
+    {
+        "name": "(494) MEAL AND OIL FACTORIES"
+    },
+    {
+        "name": "(495) SURIMI FACTORIES"
+    },
+    {
+        "name": "(496) SHELL FACTORIES"
+    },
+    {
+        "name": "(501) LIFEBOATS W/EQUIPMENT"
+    },
+    {
+        "name": "(502) LIFERAFTS W/EQUIPMENT"
+    },
+    {
+        "name": "(503) LIFESAVING, SAFETY & EMERGENCY EQUIPMENT"
+    },
+    {
+        "name": "(504) MEDICAL, FIRST AID & DENTAL EQUIPMENT, MEDICIN ES"
+    },
+    {
+        "name": "(505) LOOSE FIREFIGHTING APPARATUSES & EQUIP., FIREMEN'S OUTFIT"
+    },
+    {
+        "name": "(506) ABC PROTECTION EQUIPMENT"
+    },
+    {
+        "name": "(511) INSULATION, PARTITION BULKHEADS, PANELLING, WALLPAPER"
+    },
+    {
+        "name": "(512) DOORS W/COAMINGS IN ACCOMMODATION"
+    },
+    {
+        "name": "(513) OTHER INTERNAL DOORS W/COAMINGS"
+    },
+    {
+        "name": "(514) EXTERNAL DOORS W/COAMIN GS"
+    },
+    {
+        "name": "(515) SIDE SCUTTLES & WINDOWS W/EQUIPMENT"
+    },
+    {
+        "name": "(516) SKYLIGHTS W/EQU IPMENT"
+    },
+    {
+        "name": "(521) I NTERNAL DECK BASE COVERING"
+    },
+    {
+        "name": "(522) INTERNAL DECK TOP COVERING (LINOLEUM, TILES, PARQUET ETC.)"
+    },
+    {
+        "name": "(523) INTERNAL GRATING & WOOD DECKS"
+    },
+    {
+        "name": "(524) LOOSE FLOOR PLATES, PLATFORMS, STEPS & LADDERS IN ACCOMMOD."
+    },
+    {
+        "name": "(525) LOOSE FLOOR PLATES, PLATFORMS & LADDERS IN ENG. & PUMP ROOMS"
+    },
+    {
+        "name": "(526) LADDERS, PLATFORMS & RAILING IN BALLAST & FUEL TANKS"
+    },
+    {
+        "name": "(527) PLATFORMS, LADDERS & RAILING IN CARGO TANKS"
+    },
+    {
+        "name": "(528) PLATFORMS, LADDERS & RAILING IN CARGO HOLDS"
+    },
+    {
+        "name": "(531) EXTERNAL DECK COVERING"
+    },
+    {
+        "name": "(532) EXTERNAL WOOD DECKS"
+    },
+    {
+        "name": "(533) HANDRAILS, RAILING, RAIL GATES"
+    },
+    {
+        "name": "(534) EXTERNAL PLATFORMS, STEPS, LADDERS & GRATING W/EQUIPMENT"
+    },
+    {
+        "name": "(535) FORE & AFT GANGWAYS W/EQUIPMENT"
+    },
+    {
+        "name": "(536) AW NINGS W/EQUIPMENT"
+    },
+    {
+        "name": "(537) DECK TABLES & CHAIRS, SWIMMING POOLS"
+    },
+    {
+        "name": "(541) FURNITUR E FOR CREW, STANDARD FURNITURE"
+    },
+    {
+        "name": "(542) OFFICE EQUIP. & SPEC. FURNITURE IN WHE ELH., CHART & RADIOR."
+    },
+    {
+        "name": "(543) BEDCLOTH, MATTRESSES"
+    },
+    {
+        "name": "(544) CURTAINS, CARPETS"
+    },
+    {
+        "name": "(545) DECORATIONS, FIGUREHEADS"
+    },
+    {
+        "name": "(546) HOBBY, SPORTS & ENTERTAINMENT EQUIPMENT"
+    },
+    {
+        "name": "(547) INVENTORY, SMALLER ITEMS"
+    },
+    {
+        "name": "(548) FURNITURE FOR PASSENGERS"
+    },
+    {
+        "name": "(551) GALLEY MACHINERY"
+    },
+    {
+        "name": "(552) GALLEY/PANTRY EQUIPMENT FOR PREPARATION & SERVING"
+    },
+    {
+        "name": "(553) CAFETERIA PLANT W/EQUIPMENT"
+    },
+    {
+        "name": "(554) FREEZING/REFRIGERATING SYSTEMS FOR PROVISIONS"
+    },
+    {
+        "name": "(555) INSULATION, LINING & BATTENING IN PROV. ROOMS, DOORS & PORTS"
+    },
+    {
+        "name": "(556) WALLS, BINS, SHELVES, RACKS, GRATING & INVENT. IN PROV.ROOMS"
+    },
+    {
+        "name": "(557) INSULATION DRYING SYSTEMS FOR PROVISION ROOMS"
+    },
+    {
+        "name": "(558) LAUNDRY, IRONING & DR YING EQUIPMENT"
+    },
+    {
+        "name": "(561) PERSONNEL LIFTS, ESCALATORS"
+    },
+    {
+        "name": "(562) FOOD & LINEN LIFTS"
+    },
+    {
+        "name": "(563) PROVISION CRANES & DERRICKS"
+    },
+    {
+        "name": "(564) SHORE GANGWAYS W/DAVITS, LANDING BOOMS"
+    },
+    {
+        "name": "(565) MISCELLANEOUS CONVEYANCE EQUIPMENT"
+    },
+    {
+        "name": "(566) HELICOPTER PLATFORMS W/EQUIPMENT"
+    },
+    {
+        "name": "(571) VENTILATION/AIR -CONDITIONING SYSTEMS FOR ACCOMMODATION"
+    },
+    {
+        "name": "(572) VENTILATION/AIR -CONDITIONING SYSTEMS FOR PROVISION ROOMS"
+    },
+    {
+        "name": "(573) VENTILATION/ AIR-CONDITIONING SYSTEMS FOR CONTROL ROOMS"
+    },
+    {
+        "name": "(574) VENTILATION/AIR -CONDITIONING SYSTEMS FOR BOILER/ENG. ROOMS"
+    },
+    {
+        "name": "(575) VENTILATION/AIR -CONDITIONING SYSTEMS FOR PUMP ROOMS"
+    },
+    {
+        "name": "(576) VENTILATION/AIR -COND. SYSTEMS FOR STEERING GEAR COMPARTMENTS"
+    },
+    {
+        "name": "(577) CENTRAL HEATING SYSTEMS W/RADIATORS"
+    },
+    {
+        "name": "(581) SANITARY SUPPLY SYSTEMS"
+    },
+    {
+        "name": "(582) SANITARY DISCHARGE SYSTEMS, ACCOMMODATION DRAINAGE SYSTEMS"
+    },
+    {
+        "name": "(583) BATHTUBS, BIDETS, SHOWER CABINETS, W.C., WASHBASINS"
+    },
+    {
+        "name": "(584) DRINKING WATER SYSTEMS & COOLERS"
+    },
+    {
+        "name": "(601) DIESEL ENGINES"
+    },
+    {
+        "name": "(611) STEAM TURBINES W/CONDENSERS"
+    },
+    {
+        "name": "(612) HIGH PRESSURE TURBINES"
+    },
+    {
+        "name": "(613) MEDIUM & LOW PRESSURE TURBINES"
+    },
+    {
+        "name": "(614) MAIN CONDENSERS"
+    },
+    {
+        "name": "(618) STEAM ENGINES W/CONDENSERS"
+    },
+    {
+        "name": "(621) GAS TURBINES W/AIR PREHEATERS"
+    },
+    {
+        "name": "(625) EL. GENERATOR/EL. MOTOR PLANTS"
+    },
+    {
+        "name": "(627) FAN PLANTS, WATER -JET PUMP PLANTS W/NOZZLES"
+    },
+    {
+        "name": "(628) SPECIAL PROP ULSION AGGREGATES"
+    },
+    {
+        "name": "(631) FIXED PROPELLER PLANTS INCL. NOZZLES"
+    },
+    {
+        "name": "(634) CONTROLLABLE PITCH PROPELLER PLANTS INCL. NOZZLES"
+    },
+    {
+        "name": "(635) SPEC. PROPELLER PLANTS INCL. NOZZLES (EXCL. SIDE THRUSTERS)"
+    },
+    {
+        "name": "(636) SPARE PROPELLERS"
+    },
+    {
+        "name": "(637) MAIN REDUCTION GEARS W/THRUST BEARINGS & COUPLINGS"
+    },
+    {
+        "name": "(638) CENTRAL GEARS (JOINT AUXILIARY GEAR, NOT FOR PROPULSION)"
+    },
+    {
+        "name": "(639) FOILS, S AILS W/MASTS & RIGGING"
+    },
+    {
+        "name": "(641) MAIN BOILERS"
+    },
+    {
+        "name": "(644) AUXILIARY BOILERS"
+    },
+    {
+        "name": "(646) EXHAUST GAS BOILERS"
+    },
+    {
+        "name": "(647) STEAM CONVERTERS"
+    },
+    {
+        "name": "(648) CENTR AL HEATING & THERMAL OIL BOILERS"
+    },
+    {
+        "name": "(649) GAS GENERATORS"
+    },
+    {
+        "name": "(651) MOTOR AGGREGATES"
+    },
+    {
+        "name": "(661) STEAM TURBO AGGREGATES"
+    },
+    {
+        "name": "(663) GAS TURBO AGGREGATES"
+    },
+    {
+        "name": "(665) HARBOUR & EMERGENCY AGGREGATES W/EQUIPMENT"
+    },
+    {
+        "name": "(667) SHAFT GENERATORS"
+    },
+    {
+        "name": "(669) GENERATORS W/HYDRAULIC DRIVE"
+    },
+    {
+        "name": "(701) FUEL OIL TRANSFER & DRAIN SYSTEMS"
+    },
+    {
+        "name": "(702) FUEL OIL PURIFICATION PLANTS"
+    },
+    {
+        "name": "(703) FUEL OIL SUPPLY SYSTEMS"
+    },
+    {
+        "name": "(704) HEATING COILS IN FUEL OIL TANKS"
+    },
+    {
+        "name": "(707) GAS FUEL SYSTEM"
+    },
+    {
+        "name": "(708) SOLID FUEL SYSTEMS (E.G. COAL)"
+    },
+    {
+        "name": "(711) LUBE OIL TRANSFER & DRAIN SYSTEMS"
+    },
+    {
+        "name": "(712) LUBE OIL PURIFICATION PLANTS"
+    },
+    {
+        "name": "(713) LUBE OIL SYSTEMS FOR PROPULSION MACHINERY & TRANSMISS IONS"
+    },
+    {
+        "name": "(714) LUBE OIL SYSTEMS FOR MOTOR/TURBO AGGREGATES"
+    },
+    {
+        "name": "(715) L.O. SYST. FOR GAS GEN., COMMON L.O. SYST. FOR OTHER MACH."
+    },
+    {
+        "name": "(721) SEA WA TER COOLING SYSTEMS"
+    },
+    {
+        "name": "(722) FRESH WATER & OTHER COOLING SYSTEMS"
+    },
+    {
+        "name": "(731) STARTING AIR SYSTEMS (HIGH PRESSURE)"
+    },
+    {
+        "name": "(732) GENERAL PURPOSE AIR SYSTEMS FOR ENGINE ROOM (LOW PRESSURE)"
+    },
+    {
+        "name": "(733) GENERAL PURPOSE AIR SYSTEMS FOR DECK (LOW PRESSURE)"
+    },
+    {
+        "name": "(734) INSTRUMENT AIR SUPPLY SYSTEMS"
+    },
+    {
+        "name": "(741) FRESH AIR INTAKES (NOT VENTILATION)"
+    },
+    {
+        "name": "(743) EXHAUST GAS SYST EMS FOR PROPULSION MACHINERY"
+    },
+    {
+        "name": "(744) EXHAUST GAS SYSTEMS FOR MOTOR AG GREGATES"
+    },
+    {
+        "name": "(745) EXHAUST GAS SYSTEMS FOR BOILERS"
+    },
+    {
+        "name": "(748) ASH/SLAG HANDLING SYSTEMS"
+    },
+    {
+        "name": "(751) PRIMARY FULL PRESSURE STEAM SYSTEMS"
+    },
+    {
+        "name": "(752) PRIMARY REDUCED PRESSURE STEAM SYSTEMS  IN ENGINE ROOM"
+    },
+    {
+        "name": "(753) PRIMARY REDUCED PRESSURE SYSTEMS OUTSIDE ENGINE ROOM"
+    },
+    {
+        "name": "(754) PRIM. DRAIN, BLOW -OFF, EXH. STEAM & DEAERATION SYST. IN E/R"
+    },
+    {
+        "name": "(755) PRIMARY CONDENSATE SYSTE MS"
+    },
+    {
+        "name": "(756) PRIMARY FEED WATER SYSTEMS"
+    },
+    {
+        "name": "(757) SECONDARY STEAM SYSTEMS IN ENGINE ROOM"
+    },
+    {
+        "name": "(758) SECON DARY STEAM SYSTEMS OUTSIDE ENGINE ROOM"
+    },
+    {
+        "name": "(759) SECONDARY CONDENSATE & FEED WATER SYSTEMS"
+    },
+    {
+        "name": "(761) DISTILLED & MAKE -UP WATER SYSTEMS"
+    },
+    {
+        "name": "(791) MANOEUVRE CONSOLES, MAIN CONSOLES"
+    },
+    {
+        "name": "(792) COMMON AUTOMATION EQUIPMENT, ENGINE ROOM ALARM SYSTEMS"
+    },
+    {
+        "name": "(793) AUTOM. EQUIP. FOR PROP. MACH. & TRANSMIS., ENG. TELEGRAPH"
+    },
+    {
+        "name": "(794) AUTOMATION EQUIPMENT FOR BOILERS"
+    },
+    {
+        "name": "(795) AUTOMATION EQUIPMENT FOR MOTOR/TURBO AGGREGATES"
+    },
+    {
+        "name": "(796) AUTOMATION EQUIPMENT FOR NUCLEAR REACTOR PLANTS"
+    },
+    {
+        "name": "(797) AUTOMATION EQUIPMENT FOR OTHER MACHINERY COMPONENTS"
+    },
+    {
+        "name": "(798) CABLES/LEADS & PIPING FOR AUTOMATION SYSTEMS FOR MACHINERY"
+    },
+    {
+        "name": "(801) BALLAST SYSTEMS, SOLID BALLAST"
+    },
+    {
+        "name": "(802) HEATING COILS IN BALLAST TANKS"
+    },
+    {
+        "name": "(803) BILGE SYSTEMS"
+    },
+    {
+        "name": "(804) GUTTER PIPES OUTSIDE ACCOMMODATION"
+    },
+    {
+        "name": "(811) FIRE DETECTION, FIRE & LIFEBOAT ALARM SYSTEMS"
+    },
+    {
+        "name": "(812) EMERGENCY SHUTDOWN SYSTEM"
+    },
+    {
+        "name": "(813) FIRE/WASH DOWN S YST., EMERGENCY FIRE PUMPS, SPRINKLER SYST."
+    },
+    {
+        "name": "(814) FIRE FIGHTING SYSTEMS FOR EXTERNAL FIRES"
+    },
+    {
+        "name": "(815) FIRE FIGHTING SYSTEMS W/GAS (CO2, HALON, ETC)"
+    },
+    {
+        "name": "(816) FIRE FIGHTING SYSTEMS W/FOAM"
+    },
+    {
+        "name": "(817) FIRE FIGHTING SYSTEMS W/STEAM"
+    },
+    {
+        "name": "(818) FIRE FIGHTING SYSTEMS W/POWDER"
+    },
+    {
+        "name": "(819) FIRE FIGHTING SYSTEMS W/OTHER AGENTS"
+    },
+    {
+        "name": "(821) AIR & SOUNDING SYSTEMS FROM TANKS TO DECK"
+    },
+    {
+        "name": "(831) SPECIAL COMMON HYDRAULIC OIL SYSTEMS"
+    },
+    {
+        "name": "(841) HEATING OIL TREATMENT SYSTEMS"
+    },
+    {
+        "name": "(842) HEATING OIL DISTRIBUTION SYSTEMS FOR ENGINE ROOM"
+    },
+    {
+        "name": "(843) HEATING OIL DISTRIBUTION SYSTEMS OUTSIDE ENGINE RO OM"
+    },
+    {
+        "name": "(855) COMMON COMPUTER SYSTEMS"
+    },
+    {
+        "name": "(861) (GENERATORS/ALTERNATORS)"
+    },
+    {
+        "name": "(865) TRANSFORMERS"
+    },
+    {
+        "name": "(866) BATTERIES & CHARGERS"
+    },
+    {
+        "name": "(867) RECTIFIERS & CONVERTERS"
+    },
+    {
+        "name": "(868) ELECTRIC SHORE SUPPLY SYSTEMS"
+    },
+    {
+        "name": "(871) MAIN SWITCHBOARDS"
+    },
+    {
+        "name": "(872) EMERGENCY SWITCHBOAR DS"
+    },
+    {
+        "name": "(873) GROUP STARTERS"
+    },
+    {
+        "name": "(874) LOCAL STARTERS"
+    },
+    {
+        "name": "(875) DISTRIBUTION PANELS & BOARDS"
+    },
+    {
+        "name": "(881) CABLE TRAYS & INSTALLATION IN ENGINE & BOILER ROOMS"
+    },
+    {
+        "name": "(882) CABLE TRAYS W/INSTALLATION IN ACCOMMODATION"
+    },
+    {
+        "name": "(883) CABLE TRAYS & INSTALLATION ON DECK & IN CARGO HOLDS"
+    },
+    {
+        "name": "(886) SPECIAL CABLES"
+    },
+    {
+        "name": "(891) ELECTRIC LIGHTI NG SYSTEMS FOR ENGINE & BOILER ROOM"
+    },
+    {
+        "name": "(892) ELECTRIC LIGHTING SYSTEMS FOR ACCOMMODATION"
+    },
+    {
+        "name": "(893) ELECTRIC LIG HTING SYSTEMS FOR DECK & CARGO HOLDS"
+    },
+    {
+        "name": "(897) (ELECTRIC FANS)"
+    },
+    {
+        "name": "(898) (ELECTRIC MOTORS)"
+    }
+]

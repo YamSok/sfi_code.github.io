@@ -1,0 +1,224 @@
+[
+    {
+        "name": "(10) SPECIFICATION, ESTIMATING, DRAWING, INSTRUCTION,"
+    },
+    {
+        "name": "(11) INSURANCE, FEES, CERTIFICATES, REPRESENTATION"
+    },
+    {
+        "name": "(12) QUALITY ASSURANCE, GENERAL WORK, MODELS"
+    },
+    {
+        "name": "(13) PROVISIONAL RIGGING"
+    },
+    {
+        "name": "(14) WORK ON WAYS, LAUNCHING, DOCKING"
+    },
+    {
+        "name": "(15) QUALITY CONTROL, MEASUREMENTS, TESTS, TRIALS"
+    },
+    {
+        "name": "(16) GUARANTEE/MENDING WORK"
+    },
+    {
+        "name": "(17) SHIP REPAIR, SPECIAL SERVICES"
+    },
+    {
+        "name": "(19) CONSUMPTION ARTICLES"
+    },
+    {
+        "name": "(20) HULL MATERIALS, GENERA L HULL WORK"
+    },
+    {
+        "name": "(21) AFTERBODY"
+    },
+    {
+        "name": "(22) ENGINE AREA"
+    },
+    {
+        "name": "(23) CARGO AREA - HULL SMALL VESSELS"
+    },
+    {
+        "name": "(24) FOREBODY"
+    },
+    {
+        "name": "(25) DECK HOUSES & SUPERSTRUCTURES"
+    },
+    {
+        "name": "(26) HULL OUTFITTING"
+    },
+    {
+        "name": "(27) MATERIAL PROTECTION, EXTERNAL"
+    },
+    {
+        "name": "(28) MATERIAL PROTECTION, INTERNAL"
+    },
+    {
+        "name": "(29) M ISCELLANEOUS HULL WORK (NOT STANDARD)"
+    },
+    {
+        "name": "(30) H ATCHES, PORTS"
+    },
+    {
+        "name": "(31) EQUIPMENT FOR CARGO IN HOLDS/ON DECK"
+    },
+    {
+        "name": "(32) SPECIAL CARGO HANDLING EQUIPMENT"
+    },
+    {
+        "name": "(33) DECK CRANES FOR CARGO"
+    },
+    {
+        "name": "(34) MASTS, DERRICK  POSTS, RIGGING & WINCHES FOR CARGO"
+    },
+    {
+        "name": "(35) LOADING/DISCHARGING SYSTEMS FOR LIQUID CARGO"
+    },
+    {
+        "name": "(36) FREEZING, REFRIGERATING & HEATING SYSTEMS FOR"
+    },
+    {
+        "name": "(37) GAS/VENTILATION SYSTEMS FOR CARGO HOLDS/TANKS"
+    },
+    {
+        "name": "(38) AUXILIARY SYSTEMS & EQUIPMENT FOR CARGO"
+    },
+    {
+        "name": "(40) MANOEUVRING MACHINERY & EQUIPMENT"
+    },
+    {
+        "name": "(41) NAVIGATION & SEARCHING EQUIPMENT"
+    },
+    {
+        "name": "(42) COMMUNICATION EQUIPMENT"
+    },
+    {
+        "name": "(43) ANCHORING, MOORING & TOWING EQUIPMENT"
+    },
+    {
+        "name": "(44) REP./MAINT./CLEAN. EQUIP. WORKSHOP/STORE OUTFIT,"
+    },
+    {
+        "name": "(45) LIFTING & TRANSPORT EQUIPMENT FOR MACHINERY"
+    },
+    {
+        "name": "(46) HUNTING & FISHING EQUIPMENT"
+    },
+    {
+        "name": "(47) ARMAMENT, WEAPON & WEAPON COUNTERMEASURES"
+    },
+    {
+        "name": "(48) SPECIAL EQUIPMENT"
+    },
+    {
+        "name": "(49) FISH PROCESSING EQUIPMENT"
+    },
+    {
+        "name": "(50) LIFESAVING, PROTECTION & MEDICAL EQUIPMENT"
+    },
+    {
+        "name": "(51) INSULATION, PANELS, BULKHEADS, DOORS,"
+    },
+    {
+        "name": "(52) INTERNAL DECK COVERING, LADDERS, STEPS, RAILING"
+    },
+    {
+        "name": "(53) EXT. DECK COVERING, LADDERS, STEPS, FORE & AFT"
+    },
+    {
+        "name": "(54) FURNITURE, INVENTORY, ENTERTAINMENT EQUIPMENT"
+    },
+    {
+        "name": "(55) GALLEY/PANTRY EQUIP., PROVISION PLANTS,"
+    },
+    {
+        "name": "(56) TRANSPORT EQUIPMENT FOR CREW , PASSENGERS &"
+    },
+    {
+        "name": "(57) VENTILATION, AIR -CONDITIONING & HEATING SYSTEMS"
+    },
+    {
+        "name": "(58) SANITARY SYST. W/DISCHARGE S, ACCOMMODATION DRAIN"
+    },
+    {
+        "name": "(59) PASSENGER VESSEL CABINS & PUBLIC ROOMS"
+    },
+    {
+        "name": "(60) DIESEL ENGINES FOR PROPULSION"
+    },
+    {
+        "name": "(61) STEAM MACHINERY FOR PROPULSION"
+    },
+    {
+        "name": "(62) OTHER TYPES OF PROPULSION MACHINERY"
+    },
+    {
+        "name": "(63) PROPELLERS, TRANSMISSIONS, FOILS"
+    },
+    {
+        "name": "(64) BOILERS, STEAM & GAS GENERATORS"
+    },
+    {
+        "name": "(65) MOTOR AGGREGATES FOR MAIN ELECTRIC POWER"
+    },
+    {
+        "name": "(66) OTHER AGGR. & GEN. FOR MAIN & EMERGENCY EL. POWER"
+    },
+    {
+        "name": "(67) NUCLEAR REACTOR PLANTS"
+    },
+    {
+        "name": "(70) FUEL SYSTEMS"
+    },
+    {
+        "name": "(71) LUBE OIL SYSTEMS"
+    },
+    {
+        "name": "(72) COOLING SYSTEMS"
+    },
+    {
+        "name": "(73) COMPRESSED  AIR SYSTEMS"
+    },
+    {
+        "name": "(74) EXHAUST SYSTEMS & AIR INTAKES"
+    },
+    {
+        "name": "(75) STEAM, CONDENSATE & FEED WATER SYSTEMS"
+    },
+    {
+        "name": "(76) DISTILLED & MAKE -UP WATER SYSTEMS"
+    },
+    {
+        "name": "(79) AUTOMATION SYSTEMS FOR MACHINERY"
+    },
+    {
+        "name": "(80) BALLAST & BILGE SYSTEMS, GUTTER PIPES OUTSIDE"
+    },
+    {
+        "name": "(81) FIRE & LIFEBOAT ALARM, FIRE FIGHTING & WASH DOWN"
+    },
+    {
+        "name": "(82) AIR & SOUNDING SYSTEMS FROM TANKS TO DECK"
+    },
+    {
+        "name": "(83) SPECIAL COMMON HYDRAULIC OIL SYSTE MS"
+    },
+    {
+        "name": "(84) CENTRAL HEAT TRANSFER SYSTEMS W/CHEMICAL"
+    },
+    {
+        "name": "(85) COMMON ELECTRIC & ELECTRONIC SYSTEMS"
+    },
+    {
+        "name": "(86) ELECTRIC POWER SUPPLY"
+    },
+    {
+        "name": "(87) COMMON ELECTRIC DISTRIBUTION SYSTEMS"
+    },
+    {
+        "name": "(88) ELECTRIC CABLE INSTALLATION"
+    },
+    {
+        "name": "(89) ELECTRIC CONSUMER SYSTEMS"
+    }
+]

@@ -3,14 +3,7 @@ import pandas as pd
 import json
 import re
 
-def df_to_json(df, outfile):
 
-    j = []
-    for i in range(len(df)):
-        j.append({"name": f"({df.iloc[i]['sfi_code']}) {df.iloc[i]['sfi_label']}"})
-
-    outfile = open(outfile, "w")
-    json.dump(j, outfile, indent=4)
 
 def get_content():
     content = []
@@ -51,13 +44,44 @@ def get_content():
     return df
 
 
-def main():
+def df_to_json(df, outfile):
+
+    j = []
+    for i in range(len(df)):
+        j.append({"name": f"({df.iloc[i]['sfi_code']}) {df.iloc[i]['sfi_label']}"})
+
+    outfile = open(outfile, "w",  encoding='utf8')
+    json.dump(j, outfile, indent=4,  ensure_ascii=False)
+
+def generate_sfo_json():
     df = get_content()
 
     for i in [1,2,3,7]:
         codes = df.copy(deep=True)
         codes = codes[codes["sfi_code"].apply(lambda x: len(x) == i)]
         df_to_json(codes, f'sfi_{i}.json')
+        codes.to_csv(f'sfi_{i}.csv', sep=";", index=False)
+
+def parse_trad():
+    with open('chatgpt.txt', "r", encoding="utf-8") as trad:
+        content = trad.read()
+
+    print(content)
+
+def txt_tot_json():
+    path = "data/sfi_2_fr.txt"
+    with open(path, "r",  encoding="utf-8") as sfi_codes:
+        content = sfi_codes.read()
+
+
+    df = pd.DataFrame(columns=["sfi_code", "sfi_label"])
+    rows = [{"sfi_label" : x, "sfi_code" : i+10} for i,x in enumerate(content.split("\n"))]
+    df = df.append(rows, ignore_index=True)
+    print(df)
+    df_to_json(df, "data/sfi_2_fr.json")
+
+def main():
+    txt_tot_json()
 
 
 main()

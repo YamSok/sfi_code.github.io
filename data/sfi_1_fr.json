@@ -1,0 +1,26 @@
+[
+    {
+        "name": "(1) NAVIRE EN GÉNÉRAL"
+    },
+    {
+        "name": "(2) COQUE"
+    },
+    {
+        "name": "(3) ÉQUIPEMENT POUR LA CARGAISON"
+    },
+    {
+        "name": "(4) ÉQUIPEMENT DU NAVIRE"
+    },
+    {
+        "name": "(5) ÉQUIPEMENT POUR L'ÉQUIPAGE ET LES PASSAGERS"
+    },
+    {
+        "name": "(6) MACHINERIE PRINCIPALE"
+    },
+    {
+        "name": "(7) SYSTÈMES POUR COMPOSANTS PRINCIPAUX DE MACHINERIE"
+    },
+    {
+        "name": "(8) SYSTÈMES COMMUNAUX DU NAVIRE"
+    }
+]
