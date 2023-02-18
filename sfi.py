@@ -70,12 +70,13 @@ def parse_trad():
 
 def txt_tot_json():
     path = "data/sfi_2_fr.txt"
-    with open(path, "r",  encoding="utf-8") as sfi_codes:
-        content = sfi_codes.read()
-
+    with open(path, "r",  encoding="utf-8") as sfi_labels:
+        content = sfi_labels.read()
+    with open("data/sfi_2_nums.txt", "r",  encoding="utf-8") as sfi_codes:
+        nums = sfi_codes.read()
 
     df = pd.DataFrame(columns=["sfi_code", "sfi_label"])
-    rows = [{"sfi_label" : x, "sfi_code" : i+10} for i,x in enumerate(content.split("\n"))]
+    rows = [{"sfi_label" : x, "sfi_code" : i} for i,x in zip(nums.split('\n') ,content.split("\n"))]
     df = df.append(rows, ignore_index=True)
     print(df)
     df_to_json(df, "data/sfi_2_fr.json")
